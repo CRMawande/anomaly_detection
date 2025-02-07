@@ -1,0 +1,36 @@
+# Ignore Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs and local development files
+logs/
+*.log
+*.sqlite3
+
+# Ignore Python package distribution files
+dist/
+build/
+*.egg-info/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Ignore any other temporary or local files
+temp/
+tmp/

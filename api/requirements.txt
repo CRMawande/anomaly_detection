@@ -1,0 +1,7 @@
+joblib
+Flask
+prometheus-client
+scikit-learn
+pandas
+confluent-kafka
+numpy
