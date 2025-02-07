@@ -70,7 +70,7 @@ Anomaly_Detection/
 
 #### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/Anomaly_Detection.git
+git clone https://github.com/CRMawande/anomaly_detection.git
 cd Anomaly_Detection
 ```
 
