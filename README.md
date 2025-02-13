@@ -145,7 +145,7 @@ To reproduce the project:
 ---
 
 ### License
-This project is licensed under the MIT License [LICENSE](LICENSE).
+This project is licensed under the MIT [LICENSE](LICENSE).
 
 ---
 
